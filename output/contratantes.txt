@@ -1,0 +1,10 @@
+Professor Utonio|Cientista|12345678901
+Senhor Siriguejo|Empresario|23456789012
+Vovo Juju|Aposentada|34567890123
+Lex Luthor|CEO|45678901234
+Tony Stark|Filantropo|56789012345
+Sr. Incrivel|Gerente de Missoes|67890123456
+Gru|Empresario do Mal|78901234567
+Rick Sanchez|Cientista Maluco|89012345678
+Bruce Wayne|Investidor|90123456789
+Timmy Turner|Estudante|01234567890

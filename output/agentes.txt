@@ -1,0 +1,10 @@
+007|Pernalonga|Coelho|25 anos
+008|Scooby-Doo|Cachorro|7 meses
+009|Jerry|Rato|4 seculos
+010|Pica-Pau|Passaro|12 meses
+011|Bob Esponja|Esponja do Mar|20 anos
+012|Patolino|Pato|15 meses
+013|Agente P|Ornitorrinco|10 dias
+014|Mickey Mouse|Rato|92 anos
+015|Coragem|Cachorro|6 dias(recem nascido)
+016|Minion Stuart|Minion|5 anos

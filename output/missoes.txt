@@ -1,0 +1,10 @@
+1|7|12345678901|Resgate de documento|Bem Sucedida!|2.5
+2|8|01234567890|Protecao de VIP|Mal Sucedida!|3.0
+3|9|23456789012|Infiltracao corporativa|Bem Sucedida!|5.5
+4|10|34567890123|Recuperacao de dados|Bem Sucedida!|1.75
+5|7|45678901234|Transporte de objeto valioso|Bem Sucedida!|4.25
+6|11|56789012345|Neutralizacao de ameaca|Bem Sucedida!|0.5
+7|12|67890123456|Vigilancia prolongada|Mal Sucedida!|8.0
+8|13|78901234567|Interceptacao de comunicacao|Bem Sucedida!|2.0
+9|14|89012345678|Desativacao de dispositivo|Bem Sucedida!|3.5
+10|15|90123456789|Resgate de refem|Bem Sucedida!|6.0
